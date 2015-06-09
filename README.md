@@ -1,12 +1,8 @@
 # Hybrid Publishing Lab Research Index
 
-Title
-
-GitHub url 
-
-Author(s)
-
-Keywords
-
+Title</br>
+GitHub url</br> 
+Author(s)</br>
+Keywords</br>
 License
 

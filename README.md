@@ -3,13 +3,14 @@
 Title</br>
 Type</br>
 GitHub url</br> 
-Author(s)</br>
+Contributors(s)</br>
 Keywords</br>
 License
 
 A-machine GUI</br>
-Website Design Templates</br>
+Type: Website Design Templates</br>
 GitHub url: https://github.com/hybrid-publishing-lab/a-machine-gui</br>
-Hybrid Publishing Consortium, Creative Coop</br>
-Keywords</br>
-License
+Contributors: Hybrid Publishing Consortium, Creative Coop</br>
+Keywords: Web, GUI, templates</br>
+License: CC BY 3.0 DE</br>
+Description: 
